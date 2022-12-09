@@ -11,6 +11,13 @@
       "class": null,
       "email": null,
       "password": null
+    },
+    {
+      "id": 3,
+      "name": "Sameer",
+      "class": null,
+      "email": null,
+      "password": null
     }
   ],
   "comments": [
